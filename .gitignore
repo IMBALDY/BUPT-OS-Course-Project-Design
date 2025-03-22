@@ -1,0 +1,31 @@
+# IDE和编辑器文件
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 项目特定文件
+.specstory/
+
+# 编译输出
+target/
+out/
+build/
+*.class
+
+# 日志文件
+*.log
+
+# 包文件
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar 
